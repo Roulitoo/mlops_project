@@ -1,0 +1,1 @@
+['precipitation_lag1', 'relative_humidity_2m_lag1', 'dew_point_2m_lag1', 'apparent_temperature_lag1', 'cloudcover_lag1', 'windspeed_10m_lag1', 'winddirection_10m_lag1', 'shortwave_radiation_lag1', 'surface_pressure_lag1']

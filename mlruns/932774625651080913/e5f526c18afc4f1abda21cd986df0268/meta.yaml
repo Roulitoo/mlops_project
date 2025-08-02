@@ -1,0 +1,14 @@
+artifact_uri: file:///home/roulito/mlops_project/mlruns/932774625651080913/e5f526c18afc4f1abda21cd986df0268/artifacts
+end_time: 1753997892956
+entry_point_name: ''
+experiment_id: '932774625651080913'
+lifecycle_stage: active
+run_id: e5f526c18afc4f1abda21cd986df0268
+run_name: drift_target_2025-07-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753997889440
+status: 3
+tags: []
+user_id: root

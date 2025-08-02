@@ -1,0 +1,6 @@
+artifact_location: file:///home/roulito/mlops_project/mlruns/932774625651080913
+creation_time: 1753995241287
+experiment_id: '932774625651080913'
+last_update_time: 1753995241287
+lifecycle_stage: active
+name: predict_meteo

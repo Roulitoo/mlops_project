@@ -1,0 +1,14 @@
+artifact_uri: file:///home/roulito/mlops_project/mlruns/932774625651080913/330cb70358084827bc1b4adb1bf4cec3/artifacts
+end_time: 1753995250836
+entry_point_name: ''
+experiment_id: '932774625651080913'
+lifecycle_stage: active
+run_id: 330cb70358084827bc1b4adb1bf4cec3
+run_name: serious-mouse-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753995248233
+status: 3
+tags: []
+user_id: root

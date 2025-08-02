@@ -1,0 +1,10 @@
+artifact_location: file:///home/roulito/mlops_project/mlruns/932774625651080913/models/m-98c5e9ecb9af481eb091feaf1e5fd813/artifacts
+creation_timestamp: 1754158844388
+experiment_id: '932774625651080913'
+last_updated_timestamp: 1754158847637
+model_id: m-98c5e9ecb9af481eb091feaf1e5fd813
+model_type: null
+name: model
+source_run_id: 4a002655d7144d869c924a0a5e9af0ca
+status: 2
+status_message: null
